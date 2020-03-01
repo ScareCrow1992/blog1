@@ -29,7 +29,7 @@ search_enabled: true
 
 # Set the search token separator for hyphenated-word search:
 search_tokenizer_separator: /[\s/]+/
-
+zzz
 # Enable or disable heading anchors
 heading_anchors: true
 
